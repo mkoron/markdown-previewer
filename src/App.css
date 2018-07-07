@@ -1,0 +1,57 @@
+h1 {
+  font-size: 1.6em;
+  margin-bottom: .8em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: .7em;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-bottom: .6em;
+}
+
+h4 {
+  font-size: 1.2em;
+  margin-bottom: .4em;
+}
+
+h5 {
+  font-size: 1.2em;
+  margin-bottom: .4em;
+}
+
+h6 {
+  font-size: 1.1em;
+  margin-bottom: .4em;
+}
+
+ul {
+  list-style: circle outside none;
+}
+
+ul, ol > li {
+  margin-left: 1.2em;
+} 
+
+#editor {
+  height: 100vh;
+}
+
+#preview {
+  min-height: 30vh;
+  overflow: auto;
+  border: #dbdbdb 1px solid;
+  padding: .2em .8em;
+}
+
+div.App > h1 {
+  margin-top: 1em;
+  margin-bottom: 1.4em;
+}
+
+.container {
+  padding: 1em;
+}
